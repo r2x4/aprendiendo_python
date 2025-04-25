@@ -1,5 +1,3 @@
-
-
 # definicion de la funcion
 def suma(a, b):
     return  a + b
